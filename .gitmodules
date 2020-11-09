@@ -1,0 +1,3 @@
+[submodule "encode_for_discord"]
+	path = encode_for_discord
+	url = https://gist.github.com/krmrc/66237088b94ce82650d82b9e80dc060d
